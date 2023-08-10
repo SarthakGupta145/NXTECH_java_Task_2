@@ -1,2 +1,19 @@
-# NXTECH_java_Task_2
-This is my second task at NXTECH 
+# Word-Guessing-Game in java.
+
+```
+git clone https://github.com/joemulray/Word-Guessing-Game.git
+cd Word-Guessing-Game/
+```
+
+> To Run Game:
+
+```
+make
+```
+
+> When finished playing:
+
+```
+make clean
+```
+
